@@ -1,0 +1,28 @@
+body{
+    background-color:  #fdfdfd;
+    min-height: 100vh;
+    display: flex ;
+    justify-content: center;
+    align-items: center ;
+}
+.apexcharts-menu-icon{
+    display:none;
+}
+.card h3{
+    margin-bottom: 80px ;
+    /* color: rgb(173, 119, 64); */
+}
+.card-content{
+    width: 100%;
+    max-width: 980px;
+    padding: 15px;
+    font-size: 20px !important;
+    position: relative;
+}
+#chart .apexcharts-title-text{
+    font-size: 16px !important;
+}
+
+
+
+
